@@ -1,16 +1,24 @@
-### Hi there 👋
+## Desenvolvedor Full Stack com especialização em Desenvolvimento Mobile
 
-<!--
-**danieltostes/danieltostes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grande experiência em arquitetura e desenvolvimento de software. Um dos meus diferenciais é entender profundamente dos negócios para os quais eu desenvolvo, me permitindo definir de maneira mais assertiva as melhores estratégias de desenvolvimento, focando sempre em performance e qualidade das minhas aplicações.
 
-Here are some ideas to get you started:
+##
+<div style="display: inline_block">
+  <img align="center" alt="C#" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C#" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="C#" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img align="center" alt="C#" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="C#" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="C#" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+  <img align="center" alt="C#" height=100 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+  <img align="center" alt="C#" height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="C#" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+  <img align="center" alt="C#" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="C#" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div style="display:inline_block">
+  <a href="https://www.linkedin.com/in/daniel-tostes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:daniel.tostes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
